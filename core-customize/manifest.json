@@ -56,7 +56,12 @@
         "cmssmartedit",
         "cmssmarteditwebservices",
         "cmswebservices",
-        "previewwebservices"
+        "previewwebservices",
+
+        "kymaintegrationbackoffice",
+        "kymaintegrationsampledata"
+
+        
     ],
     "storefrontAddons": [
         {
