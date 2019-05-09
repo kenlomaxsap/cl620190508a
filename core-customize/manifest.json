@@ -95,7 +95,7 @@
         {
             "key": "corsfilter.ycommercewebservices.allowedOrigins",
             "value": "*"
-        }
+        },
 {
     "key": "website.electronics.http",
     "value": "http://electronics.cqz1m-softwarea1-d27-public.model-t.cc.commerce.ondemand.com"
